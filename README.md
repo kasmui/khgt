@@ -1,5 +1,5 @@
 # khgt
-Kalender Hijriyah Global Tunggal (manual)
+Kalender Hijriyah Global Tunggal (manual). Akses di https://falakmu.id/github/khgt/
 
 Alur Algoritma
 
@@ -23,8 +23,6 @@ File Eksternal
 3. tanggal.js: Library untuk mengolah tanggal.
 4. khgtstyle.css: File CSS untuk styling kalender.
 5. html2pdf.js: Library untuk mengubah HTML menjadi PDF.
-6. shoutbox.php: File yang berisi kode shoutbox.
-7. backup-index.php: File yang berisi kode backup index.
 
 Fungsi Utama
 
@@ -33,3 +31,6 @@ Fungsi Utama
 3. convertToArabicNumbers(): Mengubah angka menjadi angka Arab.
 4. getTooltip(): Mengembalikan tooltip untuk hari-hari penting.
 5. displayMonth(): Menampilkan kalender bulan.
+
+Link: https://falakmu.id/github/khgt/
+
