@@ -154,7 +154,7 @@ if ($hijri_date == $current_date_masehi) {
 if (isset($_POST['year'])) {
     $selected_year = $_POST['year'];
 } else {
-    $selected_year = 1446;
+    $selected_year = date('Y'); //1446
 }
 
 $start_pasaran_offset = 4; // Start offset for the first year
